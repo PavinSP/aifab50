@@ -1,6 +1,7 @@
 # FOUNDATION
 
 ## INTRO
+- ![Alt text](image-24.png)
 - 50% of ML is SE.
 - ML- coding,DSA,SystemEngineering
       oops concepts,encapsulation,inheritance,polymorphism
