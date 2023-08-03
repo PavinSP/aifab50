@@ -19,7 +19,7 @@
     - One-hot encoding is a powerful technique that can be used to improve the accuracy of machine learning algorithms. However, it is important to note that one-hot encoding can also increase the size of the dataset, which can make training the model more computationally expensive.
 - Binning: 
     - Binning is a technique used in machine learning to divide continuous data into discrete bins. This can be done to improve the accuracy of machine learning algorithms, especially for algorithms that are sensitive to the distribution of the data.
-    ![Alt text](image.png)
+    - ![Alt text](image.png)
 - Feature selection:     
     - Feature selection is a process of selecting the most relevant features from a dataset for a machine learning model. This can be done to improve the accuracy of the model, reduce its complexity, and make it more interpretable.
 - Feature split:
@@ -34,7 +34,7 @@
 - Polynomial Regression
     - Polynomial regression is a type of regression analysis that models the relationship between a dependent variable and one or more independent variables by fitting a polynomial function to the data. The polynomial function can be of any degree, but it is typically a second-degree or third-degree polynomial.
     - Polynomial regression is a powerful tool for modeling non-linear relationships between variables. For example, if we want to model the relationship between the height of a person and their weight, we could use a polynomial regression model. The model would fit a polynomial function to the data, and we could use the function to predict the weight of a person given their height.
-    ![Alt text](image-1.png)
+    - ![Alt text](image-1.png)
 - Ridge Regression
     - Ridge regression is a model tuning method that is used to analyse any data that suffers from multicollinearity.
     - Ridge regression is a popular technique for reducing overfitting in linear regression models. Overfitting occurs when a model learns the training data too well and does not generalize well to new data. Ridge regression helps to prevent overfitting by shrinking the coefficients towards zero, which reduces the complexity of the model.
