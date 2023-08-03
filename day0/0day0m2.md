@@ -20,7 +20,7 @@
 - Binning: 
     - Binning is a technique used in machine learning to divide continuous data into discrete bins. This can be done to improve the accuracy of machine learning algorithms, especially for algorithms that are sensitive to the distribution of the data.
     ![Alt text](image.png)
-- Feature selection:
+- Feature selection:     
     - Feature selection is a process of selecting the most relevant features from a dataset for a machine learning model. This can be done to improve the accuracy of the model, reduce its complexity, and make it more interpretable.
 - Feature split:
     - Feature split is the process of dividing a feature into two or more parts. This can be done to improve the accuracy of machine learning models, especially for models that are sensitive to the distribution of the data.
