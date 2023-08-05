@@ -22,7 +22,7 @@
     - ![Alt text](image.png)
 - Feature selection:     
     - Feature selection is a process of selecting the most relevant features from a dataset for a machine learning model. This can be done to improve the accuracy of the model, reduce its complexity, and make it more interpretable.
-- Feature split:
+- Feature split: 
     - Feature split is the process of dividing a feature into two or more parts. This can be done to improve the accuracy of machine learning models, especially for models that are sensitive to the distribution of the data.
 - Extracting dates:
     - Extracting dates in ML is a process of identifying and extracting dates from text data.
